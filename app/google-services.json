@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "108562023946",
+    "firebase_url": "https://gratisafhaaldemo-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "gratisafhaaldemo",
+    "storage_bucket": "gratisafhaaldemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108562023946:android:d5a3ced9f2d30a1b4b81f3",
+        "android_client_info": {
+          "package_name": "com.example.gratis_afhaal_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108562023946-9j0kcre9irif8srg5fl7sh2kbhvhdko8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuPLSycUR85covrG8O6WL-t0e6xETRWfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108562023946-9j0kcre9irif8srg5fl7sh2kbhvhdko8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
